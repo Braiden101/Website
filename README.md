@@ -27,3 +27,16 @@ Braden and Kasey<br>
 2024 Chevrolet Tahoe <br>
 2024 Chevrolet equinox<br>
 
+style sheet:
+body{
+                background-color: AliceBlue;
+            }
+            #dodge{
+                background-color: orange;
+            }
+#chevy{
+                background-color: red;
+            }
+#ford{
+                background-color: blue;
+            }
